@@ -1,1 +1,14 @@
-{"packages":{}}
+{
+  "packages": {
+    "langchain": {
+      "name": "langchain",
+      "description": "LangChain-style AI operations: LLM completion, chat, embeddings, RAG, agents, chains, and more",
+      "author": "Elysium Team",
+      "license": "MIT",
+      "repository": null,
+      "versions": [
+        "0.1.0"
+      ]
+    }
+  }
+}
