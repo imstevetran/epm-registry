@@ -1,5 +1,15 @@
 {
   "packages": {
+    "langgraph": {
+      "name": "langgraph",
+      "description": "LangGraph-style stateful graph-based agent orchestration: state graphs, nodes, edges, streaming, branching, interrupt/resume",
+      "author": "Elysium Team",
+      "license": "MIT",
+      "repository": null,
+      "versions": [
+        "0.1.0"
+      ]
+    },
     "langchain": {
       "name": "langchain",
       "description": "LangChain-style AI operations: LLM completion, chat, embeddings, RAG, agents, chains, and more",
