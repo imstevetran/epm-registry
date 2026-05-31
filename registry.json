@@ -6,18 +6,6 @@
     }
   },
   "packages": {
-    "zigbee": {
-      "name": "zigbee",
-      "owner": "",
-      "collaborators": {},
-      "description": "Zigbee Home Automation operations — device control, groups, scenes, network management",
-      "author": "Elysium Team",
-      "license": "MIT",
-      "repository": "https://github.com/imstevetran/ellysium-pl",
-      "versions": [
-        "0.1.0"
-      ]
-    },
     "@elysium/langchain": {
       "name": "@elysium/langchain",
       "org": "elysium",
@@ -40,18 +28,6 @@
       "author": "Elysium Team",
       "license": "MIT",
       "repository": "https://github.com/imstevetran/ellysium-pl",
-      "versions": [
-        "0.1.0"
-      ]
-    },
-    "langchain": {
-      "name": "langchain",
-      "owner": "",
-      "collaborators": {},
-      "description": "LangChain-style AI operations: LLM completion, chat, embeddings, RAG, agents, chains, and more",
-      "author": "Elysium Team",
-      "license": "MIT",
-      "repository": null,
       "versions": [
         "0.1.0"
       ]
@@ -82,30 +58,6 @@
         "0.1.0"
       ]
     },
-    "ble": {
-      "name": "ble",
-      "owner": "",
-      "collaborators": {},
-      "description": "Bluetooth Low Energy operations — scanning, connecting, reading, writing, notifications",
-      "author": "Elysium Team",
-      "license": "MIT",
-      "repository": "https://github.com/imstevetran/ellysium-pl",
-      "versions": [
-        "0.1.0"
-      ]
-    },
-    "auth": {
-      "name": "auth",
-      "owner": "",
-      "collaborators": {},
-      "description": "Authentication module — JWT, Password Hashing, Sessions, RBAC, OAuth2, Passkey, API Keys, Multi-tenant",
-      "author": "Elysium Team",
-      "license": "MIT",
-      "repository": "https://github.com/imstevetran/ellysium-pl",
-      "versions": [
-        "0.1.0"
-      ]
-    },
     "@elysium/zigbee": {
       "name": "@elysium/zigbee",
       "org": "elysium",
@@ -115,18 +67,6 @@
       "author": "Elysium Team",
       "license": "MIT",
       "repository": "https://github.com/imstevetran/ellysium-pl",
-      "versions": [
-        "0.1.0"
-      ]
-    },
-    "langgraph": {
-      "name": "langgraph",
-      "owner": "",
-      "collaborators": {},
-      "description": "LangGraph-style stateful graph-based agent orchestration: state graphs, nodes, edges, streaming, branching, interrupt/resume",
-      "author": "Elysium Team",
-      "license": "MIT",
-      "repository": null,
       "versions": [
         "0.1.0"
       ]
