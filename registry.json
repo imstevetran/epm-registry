@@ -19,11 +19,11 @@
         "0.1.0"
       ]
     },
-    "zigbee": {
-      "name": "zigbee",
+    "ble": {
+      "name": "ble",
       "owner": "",
       "collaborators": {},
-      "description": "Zigbee Home Automation operations — device control, groups, scenes, network management",
+      "description": "Bluetooth Low Energy operations — scanning, connecting, reading, writing, notifications",
       "author": "Elysium Team",
       "license": "MIT",
       "repository": "https://github.com/imstevetran/ellysium-pl",
@@ -43,14 +43,14 @@
         "0.1.0"
       ]
     },
-    "auth": {
-      "name": "auth",
+    "langchain": {
+      "name": "langchain",
       "owner": "",
       "collaborators": {},
-      "description": "Authentication module — JWT, Password Hashing, Sessions, RBAC, OAuth2, Passkey, API Keys, Multi-tenant",
+      "description": "LangChain-style AI operations: LLM completion, chat, embeddings, RAG, agents, chains, and more",
       "author": "Elysium Team",
       "license": "MIT",
-      "repository": "https://github.com/imstevetran/ellysium-pl",
+      "repository": null,
       "versions": [
         "0.1.0"
       ]
@@ -68,11 +68,11 @@
         "0.1.0"
       ]
     },
-    "ble": {
-      "name": "ble",
+    "zigbee": {
+      "name": "zigbee",
       "owner": "",
       "collaborators": {},
-      "description": "Bluetooth Low Energy operations — scanning, connecting, reading, writing, notifications",
+      "description": "Zigbee Home Automation operations — device control, groups, scenes, network management",
       "author": "Elysium Team",
       "license": "MIT",
       "repository": "https://github.com/imstevetran/ellysium-pl",
@@ -93,14 +93,27 @@
         "0.1.0"
       ]
     },
-    "langchain": {
-      "name": "langchain",
-      "owner": "",
+    "@elysium/langchain": {
+      "name": "@elysium/langchain",
+      "org": "elysium",
+      "owner": "imstevetran",
       "collaborators": {},
-      "description": "LangChain-style AI operations: LLM completion, chat, embeddings, RAG, agents, chains, and more",
+      "description": "Elysium port of LangChain (https://github.com/langchain-ai/langchain) — LLM calls, chains, prompts, and tool integration",
       "author": "Elysium Team",
       "license": "MIT",
-      "repository": null,
+      "repository": "https://github.com/imstevetran/ellysium-pl",
+      "versions": [
+        "0.1.0"
+      ]
+    },
+    "auth": {
+      "name": "auth",
+      "owner": "",
+      "collaborators": {},
+      "description": "Authentication module — JWT, Password Hashing, Sessions, RBAC, OAuth2, Passkey, API Keys, Multi-tenant",
+      "author": "Elysium Team",
+      "license": "MIT",
+      "repository": "https://github.com/imstevetran/ellysium-pl",
       "versions": [
         "0.1.0"
       ]
